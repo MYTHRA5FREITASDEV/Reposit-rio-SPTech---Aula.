@@ -1,1 +1,1 @@
-Esta é a meu primeiro arquivo do Git e GitHub.
+Este é o meu primeiro arquivo do Git e GitHub.
